@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Data Science, ML and NLP**
 
-- 👨‍💻 All of my projects are available at [dSupertramp.github.io](dSupertramp.github.io)
+- 👨‍💻 My portfolio is available [**here**](https://dsupertramp.github.io/)
 
 - 📫 How to reach me **salvatoredanilopalumbo@gmail.com**
 
