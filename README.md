@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Python, Data Science, ML and NLP**
 
-- 👨‍💻 My portfolio is available [**here**](https://dsupertramp.github.io/)
+- 👨‍💻 You can find something more [**here**](https://dsupertramp.github.io/)
 
-- 📫 How to reach me **salvatoredanilopalumbo@gmail.com**
+- 📫 How to reach me -> **salvatoredanilopalumbo@gmail.com**
 
 - ⚡ Fun fact **I'm an Origami artist and a Producer wannabe**
 
