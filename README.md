@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **satellite imagery processing**
 
-- 🌱 I’m currently learning **GIS (Geographic Information System)**, **LLms** and **Prompt Engineering**
+- 🌱 I’m currently learning **GIS (Geographic Information System)**, **LLMs** and **Prompt Engineering**
 
 - 💬 Ask me about **Python, Data Science, ML and NLP**
 
