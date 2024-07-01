@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Danilo!</h1>
 <h3 align="center">A passionate Data Scientist and ML Engineer from Italy</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dSupertramp&label=Profile%20views&color=brightgreen&style=flat" alt="dSupertramp" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dSupertramp&theme=cobalt)](https://github.com/Carson3377/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on **satellite imagery processing**
