@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Data Science, ML and NLP**
 
-- 👨‍💻 You can find something my portfolio/website -> [**here**](https://dsupertramp.github.io/)
+- 👨‍💻 You can find something  in my portfolio/website -> [**here**](https://dsupertramp.github.io/)
 
 - 📫 How to reach me -> **salvatoredanilopalumbo@gmail.com**
 
