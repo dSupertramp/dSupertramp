@@ -14,7 +14,7 @@
 
 - 📫 How to reach me -> **salvatoredanilopalumbo@gmail.com**
 
-- ⚡ Fun fact **I'm an Origami artist and a Producer wannabe**
+- ⚡ Fun fact **I'm an Origami Artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
