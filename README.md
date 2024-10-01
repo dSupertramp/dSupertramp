@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danilo!</h1>
-<h3 align="center">A passionate Data Scientist and ML Engineer from Italy</h3>
+<h3 align="center">A passionate Data Scientist, Data Engineer and AI/ML Engineer from Italy</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dSupertramp&label=Profile%20views&color=brightgreen&style=flat" alt="dSupertramp" /> </p>
 
 
