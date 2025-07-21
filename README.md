@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **deepfake voice and audio detection**
 
-- 🌱 I’m currently learning **GIS (Geographic Information System)**, **LLMs** and **Prompt Engineering**
+- 🌱 I worked with **GIS (Geographic Information System)**, **LLMs** and **Prompt Engineering**
 
 - 💬 Ask me about **Python, Data Science, ML, AI, NLP and LLM**
 
